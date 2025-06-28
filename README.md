@@ -28,8 +28,8 @@ To become Job-ready in cybersecurity in two months by completing hands-on labs, 
 
 ## 🔐 Platforms
 
-- [TryHackMe Profile](https://tryhackme.com/p/kenvenator)
-- [Hack The Box](https://app.hackthebox.com/profile/Elliot000)
+- [TryHackMe Profile](https://tryhackme.com/p/Anshuinfosec)
+- [Hack The Box](https://app.hackthebox.com/profile/Anshuinfosec)
 
 ---
 
@@ -60,7 +60,7 @@ To become Job-ready in cybersecurity in two months by completing hands-on labs, 
 
 ## 📫 Connect With Me
 **LinkedIn**: https://www.linkedin.com/in/anshu-vishwakarma0001  
-**GitHub**: [https://github.com/KENvenator](https://github.com/KENvenator)
+**GitHub**: [https://github.com/Anshuinfosec](https://github.com/Anshuinfosec)
 
 ---
 
