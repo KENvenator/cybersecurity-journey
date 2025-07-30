@@ -48,11 +48,11 @@ To become Job-ready in cybersecurity in two months by completing hands-on labs, 
 - Linux Terminal Basics
 - Networking Fundamentals (TCP/IP, DNS, Ports)
 - Git + GitHub version control
+- DVWA Exploits (SQL Injection, XSS)
 
 ---
 
 ## 📝 Coming Soon
-- DVWA Exploits (SQL Injection, XSS)
 - Nmap and Wireshark Walkthroughs
 - CTF Writeups and Lab Reports
 
